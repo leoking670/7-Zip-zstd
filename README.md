@@ -315,3 +315,4 @@ You find this project useful, maybe you consider a donation ;-)
 [Fast LZMA2]:https://github.com/conor42/fast-lzma2
 [Codecs.7z]:https://github.com/mcmilk/7-Zip-zstd/releases
 [TotalCmd.7z]:https://github.com/mcmilk/7-Zip-zstd/releases
+
